@@ -1,0 +1,3 @@
+CN=C=O
+O=Cc1ccc(O)c(OC)c1
+CN1CCC[C@H]1c2cccnc2

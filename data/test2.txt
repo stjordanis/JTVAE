@@ -1,0 +1,2 @@
+C[C@@H]1CN(C(=O)c2cc(Br)cn2C)CC[C@H]1[NH3+]
+C[C@@H](c1ccco1)[NH+](Cc1ncc(-c2ccccc2)o1)C1CC1
